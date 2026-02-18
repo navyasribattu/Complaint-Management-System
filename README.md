@@ -1,6 +1,5 @@
 # Complaint-Management-System
 
-Here is your **README.md** file content (without images):
 
 ---
 
@@ -106,4 +105,3 @@ Developed as a Java mini-project for learning and demonstration purposes.
 
 ---
 
-If you want, I can also format it professionally for GitHub submission (with badges and proper markdown styling).
